@@ -113,7 +113,10 @@ The system consists of the following layers:
 - **Random Forest** achieved highest R² and lowest RMSE for RUL prediction
 - **Autoencoder** successfully detected early-stage bearing anomalies
 - Dashboard enables actionable insights for maintenance engineers
+    
 ![RUL Predition](https://github.com/VS1245/Digital-Twin-for-Predictive-Maintenance-using-AI-and-Simulation/blob/main/img/1.png)
+
+    
 ![Anomaly Detection](https://github.com/VS1245/Digital-Twin-for-Predictive-Maintenance-using-AI-and-Simulation/blob/main/img/2.png)
 ---
 
