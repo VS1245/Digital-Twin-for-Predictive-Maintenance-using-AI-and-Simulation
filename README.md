@@ -15,7 +15,6 @@ This repository contains the implementation of a **Digital Twin-based predictive
 - [Deployment](#deployment)
 - [Results](#results)
 - [Future Work](#future-work)
-- [Requirements](#requirements)
 
 ---
 
